@@ -1,0 +1,8 @@
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\ConsolaCalculadora.exe.config
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\ConsolaCalculadora.exe
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\bin\Debug\ConsolaCalculadora.pdb
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\ConsolaCalculadora.csproj.AssemblyReference.cache
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\ConsolaCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\ConsolaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\ConsolaCalculadora.exe
+C:\Users\XCPC\source\repos\ConsolaCalculadora\ConsolaCalculadora\obj\Debug\ConsolaCalculadora.pdb
